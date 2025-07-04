@@ -1,0 +1,18 @@
+# --------------------------------------------
+# SmartShop Console Shopping Cart System
+# --------------------------------------------
+# 🎯 OOP Concepts Used:
+# -----------------------
+# ✅ Abstraction:     'User' is an abstract base class using abc module
+# ✅ Inheritance:     'Admin' and 'Customer' inherit from 'User'
+# ✅ Polymorphism:    'menu()' method is overridden in subclasses
+# ✅ Encapsulation:   '__cart' in Customer class is private
+# ✅ SQLite Database: Used to persist users, products, orders
+# --------------------------------------------
+
+# main.py - Main program entry point and routing
+# user.py - User abstract class and subclasses (Admin, Customer)
+# db.py   - Database connection and table creation
+# utils.py - Utility functions like password hashing
+# delete_user.py - Used to delete_user from the shop.db
+# view_users.py - Used to view users name from shop.db
