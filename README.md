@@ -16,7 +16,7 @@ A simple Python project that simulates an e-commerce experience in the console u
 - SQLite
 - OOP concepts: Inheritance, Encapsulation, Polymorphism
 
- Run the app  
+ Run the app: 
    `python main.py`
 
 ## 🧠 Concepts Used
